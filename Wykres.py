@@ -11,6 +11,8 @@ data = pd.read_csv(file_path)
 
 data.columns = data.columns.str.strip()
 
+
+# skomentowany kod, debbugowawalem kod
 # print
 #print("kolumny:", data.columns)
 #print(data.head())
@@ -85,5 +87,7 @@ plt.grid(True)
 plt.legend()
 plt.show()
 #brak danych-------------
+# w trzech ostatnich wykresach nie doszedlem jeszcze do odczytania danych, bardzo mozliwym bledem jest sposob zapisu w test1.py, albo odczyt danych z pliku CSV
+# sprobouje rozwiazac problem i dostarczyc rozwiazanie na kolejny termin
 
 #testowanie srodowiska github
