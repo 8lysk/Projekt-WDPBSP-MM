@@ -85,3 +85,5 @@ plt.grid(True)
 plt.legend()
 plt.show()
 #brak danych-------------
+
+#testowanie srodowiska github
