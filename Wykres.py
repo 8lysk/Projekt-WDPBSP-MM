@@ -91,3 +91,6 @@ plt.show()
 # sprobouje rozwiazac problem i dostarczyc rozwiazanie na kolejny termin
 
 #testowanie srodowiska github
+
+
+#symulacja w petli ze sterowaniem +obserwacje 
